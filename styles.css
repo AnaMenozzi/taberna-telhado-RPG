@@ -1,0 +1,15 @@
+:root {
+    --Cor-principal: #f0fff0;
+    --Cor-secundária: #fff;
+    --Cor-acento: #FF69B4;
+    --Cor-texto: #333;
+}
+
+
+body {
+    background-color: var(--Cor-principal);
+    color: var(--Cor-texto);
+    font-family: 'Crimson Text', serif;
+    font-size: 16px;
+    font-weight: 400;
+}
