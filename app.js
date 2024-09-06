@@ -1,1 +1,11 @@
-console.log("Você é um aventureiro bem curioso, hein?")
+// console.log(dados);
+
+
+let section = document.getElementById("resultados-pesquisa")
+console.log(section);
+
+// for (let dado of dados) {
+//     section.innerHTML += 
+// }
+
+    
